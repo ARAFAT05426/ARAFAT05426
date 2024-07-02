@@ -20,7 +20,7 @@
     <strong>Tech Interests:</strong> Node.js, React, Firebase
 </p>
 <p style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    <strong>Fun Fact:</strong> Game of Thrones Night's Watch cloaks are made from Ikea rugs.
+    <strong>Fun Fact:</strong> The first website was built by Tim Berners-Lee in 1991. He wanted to create a way for scientists to communicate with each other. 
 </p>
 
 
