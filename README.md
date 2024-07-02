@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">
-    A Passionate Software Developer from Bangladesh 🇧🇩
+    A Passionate Web Developer from Bangladesh 🇧🇩
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 💡 About Me
 
 <p style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    I am a dedicated software developer with a passion for building robust web applications and a keen interest in new technologies.
+    I am a dedicated web developer with a passion for building robust web applications and a keen interest in new technologies.
 </p>
 <p style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <strong>Tech Interests:</strong> Node.js, React, Firebase
