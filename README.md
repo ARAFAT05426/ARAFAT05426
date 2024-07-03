@@ -59,9 +59,6 @@
     <a href="https://www.facebook.com/Khan05426"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-
-## 🌱 How I Work
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/arafat05426/arafat05426/main/code.gif" alt="Coding GIF" height="250" />
 </p>
