@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">
-    A Passionate Web Developer from Bangladesh 🇧🇩
+    A Passionate Frontend Developer from Bangladesh 🇧🇩
 </h3>
 
 <p align="center">
