@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/ARAFAT05426/ARAFAT05426/assets/155056696/ca3bccb8-6f06-4a6c-99f4-2a941f60805b" />
+</div>
 <h1 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Arafat+Khan!" alt="Typing SVG" />
 </h1>
